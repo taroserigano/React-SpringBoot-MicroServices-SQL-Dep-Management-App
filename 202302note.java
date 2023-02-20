@@ -1,4 +1,11 @@
 
+SERVICE REGISTRY & DISCOVERY 
+
+NETFLIX EUREKA SERVER
+
+
+
+
 
 
 
@@ -69,6 +76,9 @@ ZIPKIN
 
 
 
+----------------------------------------------------------
+
+Web Client and Open Feign - HTTP req communication
 
 
 
